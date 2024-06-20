@@ -33,7 +33,7 @@ This project was developed as part of my internship at CodeTech IT Solutions. It
 # Technologies Used
 **HTML5:** For structuring the content on the web pages.
 
-**CSS3:** For styling and layout of the web pages.
+**CSS:** For styling and layout of the web pages.
 
 **JavaScript:** For adding interactivity and dynamic behavior to the web pages.
 
